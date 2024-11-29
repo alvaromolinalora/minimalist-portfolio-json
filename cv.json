@@ -6,7 +6,7 @@
     "email": "alvaro.molina@a.vedrunasevillaj.es",
     "phone": "+34 656 452 677",
     "url": "",
-    "summary": "",
+    "summary": "Passionate about technology and programming, with experience in developing and maintaining multi-platform applications. Skilled in Java and SQL, with a strong foundation in software development and problem-solving. Currently focused on expanding my expertise in backend development and database management. Eager to take on challenging projects that combine creativity and technical skills to deliver efficient and innovative solutions.",
     "location": {
       "address": "San Cristóbal Street, 59",
       "postalCode": "41300",
@@ -45,11 +45,12 @@
   ],
   "references": [
     {
-      "name": "",
-      "type": "",
+      "name": "Jorge Juan Muñoz Morera",
+      "type": "Academic Reference",
       "url": "",
-      "position": "",
-      "contact": []
+      "position": "Teacher at Colegio Santa Joaquina de Vedruna and Software Developer at Babel",
+      "contact": ["Phone: +34 611223344",
+      "Email: jorgejuan.munoz@vedrunasevillaj.es"]
     }
   ],
   "volunteer": [],
