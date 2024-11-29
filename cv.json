@@ -3,7 +3,7 @@
     "name": "Álvaro Molina Lora",
     "label": "Developer of Multi-platform Applications",
     "image": "",
-    "email": "alvaro.molina@a.vedrunasevilla.es",
+    "email": "alvaro.molina@a.vedrunasevilla3.es",
     "phone": "+34 656 452 677",
     "url": "",
     "summary": "Passionate about technology and programming, with a focus on solving problems and creating efficient solutions.",
@@ -17,13 +17,8 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "alvaromolinalora",
-        "url": "https://linkedin.com/in/alvaromolinalora"
-      },
-      {
-        "network": "GitHub",
-        "username": "alvaromolinalora",
-        "url": "https://github.com/alvaromolinalora"
+        "url": "https://linkedin.com/in/your-profile",
+        "username": "your-username"
       }
     ]
   },
@@ -31,56 +26,38 @@
     {
       "name": "Family Business",
       "position": "Construction Assistant",
-      "url": "",
-      "startDate": "2020-01-01",
-      "endDate": "2023-01-01",
-      "summary": "Assisted in administrative tasks and project coordination in a family-run construction business.",
-      "highlights": []
+      "startDate": "2017-01",
+      "endDate": "2019-12",
+      "summary": "Assisted in various construction-related tasks.",
+      "highlights": [
+        "Learned teamwork and task management."
+      ]
     }
   ],
-  "volunteer": [],
   "education": [
     {
-      "institution": "Vedruna Sevilla",
-      "url": "",
-      "area": "Multi-platform Application Development",
-      "studyType": "Technical Degree",
-      "startDate": "2022-09-01",
-      "endDate": "2024-06-01",
-      "score": "",
-      "courses": []
+      "institution": "Your University",
+      "area": "Computer Science",
+      "studyType": "Bachelor's",
+      "startDate": "2020-09",
+      "endDate": "2024-06",
+      "gpa": "3.8",
+      "courses": [
+        "Introduction to Programming",
+        "Data Structures",
+        "Operating Systems"
+      ]
     }
   ],
-  "awards": [],
-  "certificates": [
-    {
-      "name": "Certificate of Excellence",
-      "date": "2023-06-15",
-      "issuer": "Vedruna Sevilla",
-      "url": ""
-    }
-  ],
-  "publications": [],
   "skills": [
     {
-      "name": "Java",
+      "name": "Programming",
       "level": "Intermediate",
-      "keywords": ["Backend", "Object-Oriented Programming", "Spring Boot"]
-    },
-    {
-      "name": "HTML",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend"]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermediate",
-      "keywords": ["Styling", "Responsive Design"]
-    },
-    {
-      "name": "Git",
-      "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration"]
+      "keywords": [
+        "JavaScript",
+        "Java",
+        "Python"
+      ]
     }
   ],
   "languages": [
@@ -96,28 +73,18 @@
   "interests": [
     {
       "name": "Technology",
-      "keywords": ["Programming", "Software Development"]
-    },
-    {
-      "name": "Sports",
-      "keywords": ["Football", "Running"]
+      "keywords": ["Programming", "AI", "Cybersecurity"]
     }
   ],
-  "projects": [
+  "references": [
     {
-      "name": "Portfolio Website",
-      "isActive": true,
-      "description": "Developed a personal portfolio website to showcase my projects and skills.",
-      "highlights": ["Built using HTML, CSS, and JavaScript", "Deployed using Azure"],
-      "url": "https://example.com"
-    },
-    {
-      "name": "School Management System",
-      "isActive": false,
-      "description": "Developed a management system for a local school to handle student records.",
-      "highlights": ["Java Backend", "Database Integration"],
-      "url": ""
+      "name": "John Doe",
+      "position": "Supervisor",
+      "contact": "johndoe@example.com",
+      "type": "Professional",
+      "url": "https://linkedin.com/in/johndoe"
     }
   ]
 }
+
 
