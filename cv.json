@@ -2,11 +2,11 @@
   "basics": {
     "name": "Álvaro Molina Lora",
     "label": "Developer of Multi-platform Applications",
-    "image": "",
-    "email": "alvaro.molina@a.vedrunasevilla3.es",
+    "image": "/me.webp",
+    "email": "alvaro.molina@a.vedrunasevillaj.es",
     "phone": "+34 656 452 677",
     "url": "",
-    "summary": "Passionate about technology and programming, with a focus on solving problems and creating efficient solutions.",
+    "summary": "",
     "location": {
       "address": "San Cristóbal Street, 59",
       "postalCode": "41300",
@@ -17,74 +17,127 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "url": "https://linkedin.com/in/your-profile",
-        "username": "your-username"
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "X",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "GitHub",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Family Business",
-      "position": "Construction Assistant",
-      "startDate": "2017-01",
-      "endDate": "2019-12",
-      "summary": "Assisted in various construction-related tasks.",
-      "highlights": [
-        "Learned teamwork and task management."
-      ]
+      "name": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "type": "",
+      "url": "",
+      "position": "",
+      "contact": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "Your University",
-      "area": "Computer Science",
-      "studyType": "Bachelor's",
-      "startDate": "2020-09",
-      "endDate": "2024-06",
-      "gpa": "3.8",
-      "courses": [
-        "Introduction to Programming",
-        "Data Structures",
-        "Operating Systems"
-      ]
+      "institution": "",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Programming",
-      "level": "Intermediate",
-      "keywords": [
-        "JavaScript",
-        "Java",
-        "Python"
-      ]
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
     }
   ],
   "languages": [
     {
       "language": "Spanish",
-      "fluency": "Native"
+      "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Intermediate"
+      "fluency": "Advanced"
     }
   ],
   "interests": [
     {
-      "name": "Technology",
-      "keywords": ["Programming", "AI", "Cybersecurity"]
+      "name": "Wildlife",
+      "keywords": []
     }
   ],
-  "references": [
+  "projects": [
     {
-      "name": "John Doe",
-      "position": "Supervisor",
-      "contact": "johndoe@example.com",
-      "type": "Professional",
-      "url": "https://linkedin.com/in/johndoe"
+      "name": "",
+      "isActive": true,
+      "description": "",
+      "highlights": [],
+      "url": ""
     }
   ]
 }
+
 
 
