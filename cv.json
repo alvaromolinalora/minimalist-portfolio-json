@@ -39,15 +39,19 @@
       "url": "",
       "startDate": "2018-01-01",
       "endDate": "Present",
-      "summary": "Collaborated in the construction and renovation of residential and commercial properties, ensuring quality and adherence to deadlines.",
-      "highlights": [
-        "Material handling, preparation, and organization of construction sites.",
-        "Developed teamwork and communication skills with contractors and workers.",
-        "Problem-solving abilities by addressing on-site challenges and adapting to project needs."
-      ]
+      "summary": "Collaborated in the construction and renovation of residential and commercial properties.",
+      "highlights": ["Team collaboration", "On-site problem solving"]
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "name": "",
+      "type": "",
+      "url": "",
+      "position": "",
+      "contact": []
+    }
+  ],
   "volunteer": [],
   "education": [
     {
@@ -59,53 +63,18 @@
       "endDate": "2023-01-01",
       "score": "",
       "courses": []
-    },
-    {
-      "institution": "San José Institute of Secondary Education",
-      "url": "",
-      "area": "Health Sciences",
-      "studyType": "Bachelor’s Degree",
-      "startDate": "2008-01-01",
-      "endDate": "2011-01-01",
-      "score": "",
-      "courses": []
     }
   ],
-  "awards": [],
-  "certificates": [],
-  "publications": [],
   "skills": [
     {
       "name": "Java",
       "level": "Basic",
-      "keywords": [
-        "Programming",
-        "Back-end development"
-      ]
+      "keywords": ["Programming", "Back-end development"]
     },
     {
       "name": "SQL",
       "level": "Basic",
-      "keywords": [
-        "Database management",
-        "Query optimization"
-      ]
-    },
-    {
-      "name": "Teamwork",
-      "level": "Advanced",
-      "keywords": [
-        "Collaboration",
-        "Effective communication"
-      ]
-    },
-    {
-      "name": "Problem-solving",
-      "level": "Advanced",
-      "keywords": [
-        "Technical challenges",
-        "Practical environments"
-      ]
+      "keywords": ["Database management"]
     }
   ],
   "languages": [
@@ -118,11 +87,14 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [
+  "projects": [
     {
-      "name": "Wildlife",
-      "keywords": []
+      "name": "",
+      "isActive": true,
+      "description": "",
+      "highlights": [],
+      "url": "",
+      "github": ""
     }
-  ],
-  "projects": []
+  ]
 }
